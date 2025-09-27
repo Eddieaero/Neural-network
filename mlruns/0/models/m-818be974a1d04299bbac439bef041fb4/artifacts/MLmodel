@@ -1,0 +1,22 @@
+artifact_path: file:///Users/pro/Documents/projects/project12/neural/mlruns/0/models/m-818be974a1d04299bbac439bef041fb4/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.8
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.4.0
+model_id: m-818be974a1d04299bbac439bef041fb4
+model_size_bytes: 144968
+model_uuid: m-818be974a1d04299bbac439bef041fb4
+prompts: null
+run_id: ea4a42e83603441baa6c2859acc7133c
+utc_time_created: '2025-09-24 14:17:40.626051'

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/pro/Documents/projects/project12/neural/mlruns/0/fded1e79854b4f96b151f7bbe86ddc6a/artifacts
+end_time: 1758723495733
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fded1e79854b4f96b151f7bbe86ddc6a
+run_name: grandiose-crane-428
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758723487606
+status: 3
+tags: []
+user_id: pro

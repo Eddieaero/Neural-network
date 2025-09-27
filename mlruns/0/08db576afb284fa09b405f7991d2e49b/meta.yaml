@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/pro/Documents/projects/project12/neural/mlruns/0/08db576afb284fa09b405f7991d2e49b/artifacts
+end_time: 1758723318522
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 08db576afb284fa09b405f7991d2e49b
+run_name: wistful-sponge-821
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758723307246
+status: 3
+tags: []
+user_id: pro

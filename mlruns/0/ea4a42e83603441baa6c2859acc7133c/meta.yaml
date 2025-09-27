@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/pro/Documents/projects/project12/neural/mlruns/0/ea4a42e83603441baa6c2859acc7133c/artifacts
+end_time: 1758723464390
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ea4a42e83603441baa6c2859acc7133c
+run_name: angry-owl-667
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758723455855
+status: 3
+tags: []
+user_id: pro

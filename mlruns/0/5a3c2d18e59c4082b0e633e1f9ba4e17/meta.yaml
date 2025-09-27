@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/pro/Documents/projects/project12/neural/mlruns/0/5a3c2d18e59c4082b0e633e1f9ba4e17/artifacts
+end_time: 1758723750338
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5a3c2d18e59c4082b0e633e1f9ba4e17
+run_name: salty-seal-663
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758723741356
+status: 3
+tags: []
+user_id: pro

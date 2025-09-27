@@ -1,0 +1,10 @@
+artifact_location: file:///Users/pro/Documents/projects/project12/neural/mlruns/0/models/m-c2a92d8927364974b759f16755663af4/artifacts
+creation_timestamp: 1758723496098
+experiment_id: '0'
+last_updated_timestamp: 1758723499802
+model_id: m-c2a92d8927364974b759f16755663af4
+model_type: null
+name: model
+source_run_id: f4b6f45f03454c09a59eebfe5d89a297
+status: 2
+status_message: null

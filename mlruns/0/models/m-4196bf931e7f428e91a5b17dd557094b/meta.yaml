@@ -1,0 +1,10 @@
+artifact_location: file:///Users/pro/Documents/projects/project12/neural/mlruns/0/models/m-4196bf931e7f428e91a5b17dd557094b/artifacts
+creation_timestamp: 1758723500201
+experiment_id: '0'
+last_updated_timestamp: 1758723503914
+model_id: m-4196bf931e7f428e91a5b17dd557094b
+model_type: null
+name: random_forest_model
+source_run_id: f4b6f45f03454c09a59eebfe5d89a297
+status: 2
+status_message: null

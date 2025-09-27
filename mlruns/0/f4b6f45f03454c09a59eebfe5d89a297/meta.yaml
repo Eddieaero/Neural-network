@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/pro/Documents/projects/project12/neural/mlruns/0/f4b6f45f03454c09a59eebfe5d89a297/artifacts
+end_time: 1758723503920
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f4b6f45f03454c09a59eebfe5d89a297
+run_name: fun-gnat-99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758723495739
+status: 3
+tags: []
+user_id: pro
